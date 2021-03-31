@@ -1,4 +1,3 @@
-.lead {
-  display: flex;
+.intro__list_column {
   flex-direction: column;
 }
