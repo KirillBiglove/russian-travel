@@ -1,5 +1,5 @@
 .places {
   display: flex;
-  border: 1px solid red;
+  flex-direction: column;
   padding: 92px 0 0;
 }

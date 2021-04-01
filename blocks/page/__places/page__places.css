@@ -1,5 +1,4 @@
 .page__places {
-  margin-left: 148px;
-  margin-right: 148px;
-  max-width: 964px;
+  max-width: 984px;
+  margin: 0 auto;
 }

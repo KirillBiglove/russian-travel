@@ -1,7 +1,12 @@
 .places__place {
-    display: grid;
-    grid-template-columns:repeat(2, minmax(284px, 1fr));
-    grid-template-rows: repeat(3, minmax(min-content, max-content));
-    max-width: 984px;
-    gap: 40px 48px;
+  display: grid;
+  max-width: 984px;
+  grid-template-columns: 1fr minmax(484px, 1fr);
+  gap: 48px 40px;
+  margin: 0 0 80px;
 }
+
+.places__place:last-of-type {
+  margin: 0;
+}
+
