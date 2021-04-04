@@ -2,6 +2,7 @@
   display: grid;
   gap: 48px 40px;
   margin: 0 0 80px;
+
 }
 
 .places__place:last-of-type {
@@ -11,5 +12,11 @@
 @media (max-width: 1100px) {
   .places__place {
     gap: 48px 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  .places__place {
+    gap: 48px 28px;
   }
 }

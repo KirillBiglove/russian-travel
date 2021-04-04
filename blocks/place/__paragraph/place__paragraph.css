@@ -17,3 +17,12 @@
     max-width: 456px;
   }
 }
+
+@media (max-width: 768px) {
+  .place__paragraph {
+    max-width: 352px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 163%;
+  }
+}

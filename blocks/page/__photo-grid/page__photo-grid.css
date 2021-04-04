@@ -8,3 +8,9 @@
     max-width: 928px;
   }
 }
+
+@media (max-width: 800px) {
+  .page__photo-grid {
+    max-width: 720px;
+  }
+}
