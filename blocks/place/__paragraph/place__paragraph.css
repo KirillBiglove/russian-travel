@@ -11,3 +11,9 @@
 .place__paragraph:last-of-type {
   margin-top: 26px;
 }
+
+@media (max-width: 1100px) {
+  .place__paragraph {
+    max-width: 456px;
+  }
+}

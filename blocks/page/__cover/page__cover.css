@@ -3,3 +3,9 @@
   max-width: 1184px;
   padding: 92px 0 92px;
 }
+
+@media (max-width: 1024px) {
+  .page__cover {
+    max-width: 1024px;
+  }
+}

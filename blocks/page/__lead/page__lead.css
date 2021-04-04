@@ -2,5 +2,11 @@
   margin: 0 auto;
   max-width: 984px;
   padding: 56px 0 92px
-  
 }
+
+@media (max-width: 1100px) {
+  .page__lead {
+    max-width: 928px;
+  }
+}
+

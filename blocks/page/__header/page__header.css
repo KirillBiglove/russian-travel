@@ -1,4 +1,18 @@
 .page__header {
   max-width: 1184px;
-  margin: auto;
+  margin: 0 auto;
+}
+
+@media (max-width: 1220px) {
+  .page__header {
+    max-width: 928px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 1100px) {
+  .page__header {
+    max-width: 928px;
+    margin: 0 auto;
+  }
 }

@@ -1,4 +1,10 @@
 .page__photo-grid {
-  margin: 0 48px 0;
-  min-width: 671px;
+  max-width: 1184px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1100px) {
+  .page__photo-grid {
+    max-width: 928px;
+  }
 }
