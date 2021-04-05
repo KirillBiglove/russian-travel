@@ -1,0 +1,18 @@
+.page__places {
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1100px) {
+  .page__places {
+    max-width: 928px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 1000px) {
+  .page__places {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+}
