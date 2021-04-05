@@ -9,3 +9,9 @@
     padding: 88px 0 0;
   }
 }
+
+@media (max-width: 320px) {
+  .places {
+    padding: 64px 0 0;
+  }
+}
