@@ -1,17 +1,17 @@
-.place__website {
+.website {
   max-width: 456px;
   grid-column: 2;
   align-self: end;
 }
 
 @media (max-width: 1100px) {
-  .place__website {
+  .website {
     max-width: 456px;
   }
 }
 
 @media (max-width: 320px) {
-  .place__website {
+  .website {
     max-width: 288px;
     margin-left: 16px;
     grid-column: 1;
