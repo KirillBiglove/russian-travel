@@ -4,8 +4,8 @@
   padding: 28px 0 0;
 }
 
-@media (max-widht: 320px) {
+@media (max-width: 320px) {
   .header {
-    padding: 16px 0 0
+    padding: 16px 0 0;
   }
 }
