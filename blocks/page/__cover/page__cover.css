@@ -24,6 +24,13 @@
   }
 }
 
+@media (max-width: 375px) {
+  .page__cover {
+    max-width: 375px;
+    padding: 66px 0 64px;
+  }
+}
+
 @media (max-width: 320px) {
   .page__cover {
     max-width: 320px;

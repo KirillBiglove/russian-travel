@@ -9,10 +9,12 @@
 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 375px) {
   .cover__title {
-    min-height: 70px;
-    font-size: 32px;
-    line-height: 35px;
+    min-height: 75px;
+    font-size: 37px;
+    line-height: 37px;
   }
 }
+
+

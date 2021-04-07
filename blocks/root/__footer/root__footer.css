@@ -18,14 +18,7 @@
   }
 }
 
-@media (max-width: 768px) {
-  .root__footer {
-    max-width: 720px;
-    margin: 0 auto;
-  }
-}
-
-@media (max-width: 320px) {
+@media (max-width: 600px) {
   .root__footer {
     max-width: 186px;
     margin-left: 16px;

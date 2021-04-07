@@ -18,6 +18,13 @@
   }
 }
 
+@media (max-width: 375px) {
+  .page__lead {
+    max-width: 375px;
+    padding: 48px 0 64px;
+  }
+}
+
 @media (max-width: 320px) {
   .page__lead {
     max-width: 320px;
